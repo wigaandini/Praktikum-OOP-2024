@@ -1,3 +1,2 @@
 # Praktikum OOP 2024
-13522053
-gws
+gws - 13522053
