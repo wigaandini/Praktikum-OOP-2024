@@ -13,3 +13,5 @@ public class Main {
     }
 }
 
+// javac (nama folder)\*.java
+// java Main

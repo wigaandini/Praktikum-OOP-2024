@@ -12,3 +12,6 @@ public class Main {
         db.print();
     }
 }
+
+// javac (nama folder)\*.java
+// java Main

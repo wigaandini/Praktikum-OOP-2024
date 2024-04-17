@@ -12,3 +12,6 @@ public class Main {
         System.out.println("Debit Card Balance: " + dc.balance);
     }
 }
+
+// javac (nama folder)\*.java
+// java Main
